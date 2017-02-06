@@ -15,6 +15,8 @@
 						<img id="cropped-image" src="{url}" >
 					</div>
 					
+					<hr />
+					
 					<div class="btn-group">
 						<button class="btn btn-primary rotate" data-degrees="-45"><i class="fa fa-rotate-left"></i></button>
 						<button class="btn btn-primary rotate" data-degrees="45"><i class="fa fa-rotate-right"></i></button>
